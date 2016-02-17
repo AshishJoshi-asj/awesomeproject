@@ -1,0 +1,8 @@
+git@github.com:ashishittechnosoft/awesomeproject.git
+
+echo "# awesomeproject" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin git@github.com:ashishittechnosoft/awesomeproject.git
+git push -u origin master
