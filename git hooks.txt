@@ -9,6 +9,4 @@ git push -u origin master
 
 
 
-test file
-
-my new changes not in awsome 2
+changes on 1 pro
