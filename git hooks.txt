@@ -12,3 +12,6 @@ new changes here for 1 project
 function a(){
 }
 
+function c(){
+}
+
