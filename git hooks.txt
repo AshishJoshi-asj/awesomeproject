@@ -7,14 +7,6 @@ git commit -m "first commit"
 git remote add origin git@github.com:ashishittechnosoft/awesomeproject.git
 git push -u origin master
 
-
-
-
-again changes by git 1
-
 changes in 2 pro
 
-changes again
-
-changes on 1 pro
 
