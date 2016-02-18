@@ -25,6 +25,4 @@ function b(){
 function newchanges (){
 }
 
-function newchanges2 (){
 
-}
